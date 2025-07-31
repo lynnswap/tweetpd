@@ -5,7 +5,7 @@
 
 > **tweetpd**は*CSS / JavaScriptで自由に拡張できる SNS クライアント*です。  
 > 未読管理・マルチアカウント・デバイス間同期などを搭載。  
-> [**詳細はApp Store**](https://apps.apple.com/jp/app/tweetpd/id1671411031)をご覧ください。
+> [**詳細はApp Store**](https://apps.apple.com/jp/app/tweetpd/id1671411031)をご覧ください。  
 > macOS AppKit版は現在オープンβ公開中です。[TestFlight](https://testflight.apple.com/join/pMp7Zha4)から参加できます。
 
 ---
