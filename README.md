@@ -9,7 +9,7 @@
 
 ---
 
-## 🔧 カスタマイズ方法 <sup>[詳しくはこちら ›](CUSTOM_CSS_JS.md)</sup>
+## 🔧 カスタマイズ方法 <sup>[詳しくはこちら ›](docs/CUSTOM_CSS_JS.md)</sup>
 
 - **外観の変更** ‑ CSSでフォント・配色・レイアウトを自在に調整  
 - **動作の拡張** ‑ JavaScriptでミュートルールなどを追加
@@ -17,8 +17,8 @@
 
 ---
 
-## 🔒 プライバシーポリシー <sup>[全文を読む ›](privacy-policy.md)</sup>
-英語版は [Privacy Policy (EN)](privacy-policy_en.md) をご覧ください。
+## 🔒 プライバシーポリシー <sup>[全文を読む ›](docs/privacy-policy.md)</sup>
+英語版は [Privacy Policy (EN)](docs/privacy-policy_en.md) をご覧ください。
 
 ---
 
